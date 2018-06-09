@@ -27,7 +27,7 @@ Note that if you click on this, the code will populate a contact form at the bot
 - In the Power BI Portal (https://app.powerbi.com), create a Power BI workspace
 - Import `pbix-sample/Sales Management Demo.pbix` file within the Power BI workspace
 - Create an Azure AD Application and set `https://localhost:8008/dist/index.htm` as response URL
-- Set the Azure AD Application delegated permissions as follow
+- Set the Azure AD Application delegated permissions as follow<br />
 <img src="https://github.com/aurelienprevotMVP/contoso.dataportal.powerbi/blob/master/wiki/azureadapp1.png" widht=100 height=400 /><br />
 - Download the code
 - Run `npm install`
