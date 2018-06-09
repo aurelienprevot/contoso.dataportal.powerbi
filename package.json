@@ -1,0 +1,21 @@
+{
+  "name": "contoso-data-portal",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --https --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aurélien Prévot",
+  "license": "ISC",
+  "devDependencies": {
+    "adal-ts": "^0.6.0",
+    "powerbi-client": "^2.5.1",
+    "ts-loader": "^4.3.0",
+    "typescript": "^2.8.3",
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
