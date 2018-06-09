@@ -1,5 +1,3 @@
-Welcome to the contoso.dataportal.powerbi wiki!
-
 # What is this?
 This project is a sample to show how to implement Power BI embedded features within a web site with TypeScript. More specifically, this sample show:
 - Azure AD App Authentication
